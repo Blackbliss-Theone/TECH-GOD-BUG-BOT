@@ -4,19 +4,19 @@
 //Instagram: techgod143
 //Telegram: t.me/techgod143
 //GitHub: @techgod143
-//WhatsApp: +917466008456
+//WhatsApp: +2347026431832
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@techgod143
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
 global.ownernomer = "910000000000"
-global.ownername = "🐛Tech God"
+global.ownername = "🥇The One"
 global.ytname = "YT: Tech-God"
 global.socialm = "GitHub: techgod143"
 global.location = "India, Up, Rampur"
 
-global.ownernumber = '917466008456'  //creator number
+global.ownernumber = '2347027431832'  //creator number
 global.ownername = '🐛Tech god' //owner name
 global.botname = 'Tech God ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
